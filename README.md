@@ -44,7 +44,7 @@ Wadi Musa is a sprawling concrete monstrosity built exclusively to house the tou
 
 But for the occasional goat farmer I hardly saw another living soul on my way to the top. I made it just in time and climbed up to the roof of the small Mosque like building that was at the top of the mountain. Before me sat the vast Arabian desert, I was all alone, as so often I was on my trip to Jordan, I felt a serene sense of calm as I sat and watched the desert for as long as I could. Eventually I managed to drag myself away, concerned that I would not make it back down the steep path in the fading light if I didn’t leave right now. On the way down the villagers had retreated inside,there was to be no bedouin tea for me.
 
-![haroun](haroun.jpg)
+![haroun](horoun.jpg)
 
 The tomb of Haroun, looking over the Arabian desert. 
 I would implore you to come to this beautiful country, and to meet these generous sincere people, but to be honest I rather selfishly liked having the place all to myself.
