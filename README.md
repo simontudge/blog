@@ -2,8 +2,6 @@
 
 ## Jordan
 
-Jordan
-
 I grew up in the North of England, which was, at one point, the barbarous northern edge of the Roman empire. A mere five hour flight away is the Jordanian capital of Amman and the nearby Roman ruins of Jerash. Strange to think then that, around 2000 years ago, one could have made this trip overland without ever leaving the empire in which you started. Depending upon your route this trip might now take you through 11 different countries. Somewhat short on time, and not fancying a run in with Assad’s thugs or ISIS, I opted for the 5 hour BA flight from Heathrow to Amman Queen Alia airport. North of the city of Amman is the Roman ruin of Jerash. Hadrian’s wall this is not, this place is a massive labyrinth of grand imposing spaces and towering pillars, testament to the genius of these great latin engineers. Another hour's drive north from here and you would be at the edge of another collapsing civilization: Syria. The only reminder of the tragic events taking place in Jordan’s fractious neighbour is the constant stream of Syrians that you meet on your travels, intensifying as you go further north towards the border. By contrast Jordan seems serenely calm, almost sleepily peaceful. But for the occasional other tourist and the overly zealous taxi drivers one is left to meander this great kingdom entirely at one’s own pace, and largely by oneself. Gone are the great hoards of tourists that once came here. Just as the Roman pillars tell of a people who once inhabited this land, the myriad empty tourist hotels tell of the tourists who similarly once descended on Jordan, but have since left the place.
 
 ![jerash](jerash.jpg)
@@ -23,19 +21,19 @@ There are three main roads that all go from the capital, Amman, to the second ci
 
 ![kings_highway](kings_highway.jpg)
 
-The king’s highway
+_The king’s highway_
 
 My next stop is Kerak, which I reach as the sun begins to dip beneath the orange sandstone on the horizon. This is surely the destination of a travel contrarian. Just 10 days ago, as I was planning this trip, a group of radicals declaring allegiance to ISIS opened fire on a group of tourists, killing locals and visitors alike. In normal times the main attraction of the town is the crusader castle built imposingly on the hilltop above the town. This is where the terrorists staged there last stand against the police and the Jordanian army. The castle was still closed as the police search the area for any booby traps or remaining evidence. It was still possible to walk up to the entrance of the castle and to the cafe. I even saw a smattering of bullet holes along the glass facade of the gift shop/cafe. If Jordan in general was lacking in tourists, this place was doubly bereft of visitors, it seems the site of the aftermath of violent Jihad didn't hold the same appeal to your average tourist as it did to me. Armed police were patrolling the streets in conspicuous numbers. This must be one of the safest places in Jordan right now, however, given that the only real attraction of the city, along with most of its restaurants, were closed, I decided that it was time to head on, further into the south of the city. I couldn't help but feel sorry for those poor Jordanians who had decided to make their livelihood in the tourist industry. The latest event, miniscule though it was by the comparisons of the blood shed of neighbouring Iraq and Syria, will surely not help their cause.
 
 ![kerak](kerak.jpg)
 
-Jihadis were here!
+_Jihadis were here!_
 
 My next stop was the nature reserve of Dana, and a tiny Ottoman town of the same name. Dana is a tourist destination that does quite enjoy the same fame as the nearby Petra (of which more later) but it is one that is well worth the stop. I stayed in a converted ottoman building, now a nice rustic guest house. I was travelling in January, and at this relatively high altitude it was actually close to freezing. One suffers from a form of cognitive dissonance to be surrounded by almost desert like features, and in the middle of the day a blazing sun which scorches the eyes, and yet to feel such an incredible chill. I was going to explore the park by myself, but I met a couple of French girls who wanted to share the cost of a tour the next day, so I decided to join them. Our bedouin guide took us on a trail through the labyrinth of rock, like an enormous pile wet mud that has dried and cracked in the midday sun, we scampered through these otherworldly rock formations. Our guide didn't speak a word of English, and we unfortunately spoke no Arabic, but our fixer assured us that he was taking us on a light scramble through the rocks; it was nothing of the sort. The only honest description of what we were doing was rock climbing without ropes. Unperturbed, our aging guide scampered across the rocks in his felt slippers; at one point we had to slide down a steep rock face, and then stop our descent by wedging our left feet on the opposing wall, edging along with legs either side of a 10 m high drop, all great activities to build an appetite. For lunch our guide lit an open fire at the bottom of the valley and we ate a tasty lunch of lamb Kofte and fried onions. A nomad passed us with a herd of goats, pausing to give us a nod of the head and continue his conversation on his old style nokia phone. I wanted to stop and talk to him, who are you? where are you going? what do you know of the outside world? what are your thoughts and dreams? but of course I couldn't. That must be one of the most frustrating aspects of foreign travel. You must either spend years mastering a difficult tongue, or resign yourself to only speaking to that particular group of people who can speak yours.
 
 ![dana](dana.jpg)
 
-My accommodation in in Dana.
+_My accommodation in Dana._
 
 
 My last stop was Petra, which really has to be done on any self respecting tour of Jordan. I hitched a lift with a traditionally dressed Jordanian man along the 40 min drive to the town of Wadi Musa. He spoke surprisingly good English, and we whiled away the minutes talking about Islam, crusaders, as we passed the ruins of another castle, terrorism and politics, he assured me that Jordan was safe and that everyone here had nothing but contempt for the radicals spreading through Syria and Iraq.
@@ -46,7 +44,8 @@ But for the occasional goat farmer I hardly saw another living soul on my way to
 
 ![haroun](horuon.jpg)
 
-The tomb of Haroun, looking over the Arabian desert. 
+_The tomb of Haroun, looking over the Arabian desert._
+
 I would implore you to come to this beautiful country, and to meet these generous sincere people, but to be honest I rather selfishly liked having the place all to myself.
 
 
