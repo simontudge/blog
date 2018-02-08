@@ -52,3 +52,7 @@ footer p {
 	background-color: #cddcf2;
 	border: none;
 }
+
+img {
+    image-orientation: from-image;
+}
