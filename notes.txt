@@ -1,0 +1,9 @@
+This is for my use only.
+
+Desided to write the blog in hand crafted html rather than using a framework. This will take a bit longer, but should give some extra flexibility. Use bootstrap as a starting point.
+
+Layout:
+
+Have a landing page, which has a brief about in a title bar and a picture of me. Underneath this have a map of everywhere that is blogged about. Map of the world, those countries included are in red. Underneath this there are panels, with the name of the country or the blog post at the top, a small picture and a brief overview.
+
+Leave the map to the end.
