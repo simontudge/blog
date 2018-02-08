@@ -37,3 +37,18 @@ footer p {
 }
 
 .box-shadow { box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05); }
+
+.link {
+  color: inherit; /* Color of the parent*/
+  text-decoration: none; /* no underline */
+}
+
+.link:hover {
+    text-decoration: none; /* no underline */
+	color: inherit;
+}
+
+.dark-on-hover:hover{
+	background-color: #cddcf2;
+	border: none;
+}
