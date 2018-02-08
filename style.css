@@ -64,3 +64,9 @@ img {
     -ms-transform: rotate(90deg);
     transform: rotate(90deg);
 }
+
+p{
+  text-align: justify;
+  text-justify: inter-word;
+
+}
