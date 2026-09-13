@@ -32,7 +32,7 @@ In a last ditch attempt to salvage the argument, and his dwindling credibility, 
 
 The old man had won the argument, but he had lost his dignity, and his standing in the village. A fair trade, one might say, such was the importance put on the art of arguing. Nonetheless, the man shrank from prominence and began to show his wrinkled face, never mind his balls, less and less frequently.
 
-However the night went, the next day the squables were always put to one side. The villagers knew that their survival depended upon working together to gather the crops, to operate the mill, or to shoo away the pesky hyenas that sometimes ventured into the village late at night.
+However the night went, the next day the squabbles were always put to one side. The villagers knew that their survival depended upon working together to gather the crops, to operate the mill, or to shoo away the pesky hyenas that sometimes ventured into the village late at night.
 
 <span>…</span>
 
@@ -70,7 +70,7 @@ The discussion moved on to something else entirely, which seemed to Kiera to be 
 
 That night she wrote in her diary "Joseph is an ugly stupid boy, and he should not be allowed to talk in front of the village anymore."
 
-The writing soothed her a little, but she was not able to get rid of the unpleasent acidic taste at the back of her throat whenever she thought about the stupid ugly boy: Joseph.
+The writing soothed her a little, but she was not able to get rid of the unpleasant acidic taste at the back of her throat whenever she thought about the stupid ugly boy: Joseph.
 
 ...
 
@@ -280,7 +280,7 @@ Yet she still went to the cave.
 
 This time would be different, she told herself. This time she would convince the voices, overcome the bullies. She would be heard over the cacophony of destructive descent.
 
-And of course Joseph kept visiting the cave. Kept feeding it with the nastiness that lived inside him. The natiness that he dared not to express in the village. A nastiness that had, in all fairness, been visited upon him, but had turned sourer, more primal and more simplistic as it festered unexpressed in his fragile heart.
+And of course Joseph kept visiting the cave. Kept feeding it with the nastiness that lived inside him. The nastiness that he dared not to express in the village. A nastiness that had, in all fairness, been visited upon him, but had turned sourer, more primal and more simplistic as it festered unexpressed in his fragile heart.
 
 That was not the end.
 

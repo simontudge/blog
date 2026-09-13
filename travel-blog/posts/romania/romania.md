@@ -2,7 +2,7 @@
 title: "Romania"
 lead: "I left the Ukraine and passed into the north east of Romania by bus into the northern town of Suceava, continuing my journey towards Istanbul."
 thumbnail: "/travel-blog/thumbnails/romania.jpg"
-blurb: "Facinating trip from the very north east of this enchanting country to see the painted monestries near Suceava, hiking in Maramures, train through Transivania, the capital and partying on the black sea."
+blurb: "Fascinating trip from the very north east of this enchanting country to see the painted monasteries near Suceava, hiking in Maramures, train through Transylvania, the capital and partying on the black sea."
 order: 5
 ---
 ### Suceava
@@ -29,11 +29,11 @@ The next day I climbed mount Pietrosul. 2300 m, so a fair height, but not quite 
   <figcaption>View before the final ascent on Pietrosul, Maramures.</figcaption>
 </figure>
 
-The next day I took a chair lift in the other direction. This thing is very rustic (a nice way of saying dilapidated), probably built in the 80's under comrade Cecescu. It's quite a weird sensation to take a chair lift whilst not wearing skis or a snowboard, and the thing goes at quite a pace so you have to do a rather undignified cantor at the end. From the top of the lift I went to a series of waterfalls called the horses waterfalls. On every tourist trail there is a waterfall, but this one is genuinely quite pretty. It feels great to be up in the mountains again, as much of the travelling I've done upto know has been across very flat land. My knees are shot from yesterday's hike however, so I returned to base quite early.
+The next day I took a chair lift in the other direction. This thing is very rustic (a nice way of saying dilapidated), probably built in the 80's under comrade Ceausescu. It's quite a weird sensation to take a chair lift whilst not wearing skis or a snowboard, and the thing goes at quite a pace so you have to do a rather undignified cantor at the end. From the top of the lift I went to a series of waterfalls called the horses waterfalls. On every tourist trail there is a waterfall, but this one is genuinely quite pretty. It feels great to be up in the mountains again, as much of the travelling I've done up to know has been across very flat land. My knees are shot from yesterday's hike however, so I returned to base quite early.
 
 ### Cluj and Sighișoara
 
-I need to be in Georgia by a certain date and being ill for 4 days has put me a bit behind schedule, so I spend only one night in Cluj and then one in Sighisoara. The transport here is rather slow so getting around takes up most of my time. Still I managed to spend one nice evening in Cluj and a nice morning in Sighișoara. Cluj is quite a charming student town of a reasonable size, well worth a look, but I can't say I did anything of much note here. Sighisoara is a very small town on the rail route between Cluj and Bucharest. It's ridiculously pretty, built onto a hill with buildings of pastel colours. More than anywhere else I've been so far it feels like a tourist trap, but it is maybe worth enduring the kitch and the Dracula souvenirs to spend an afternoon here.
+I need to be in Georgia by a certain date and being ill for 4 days has put me a bit behind schedule, so I spend only one night in Cluj and then one in Sighisoara. The transport here is rather slow so getting around takes up most of my time. Still I managed to spend one nice evening in Cluj and a nice morning in Sighișoara. Cluj is quite a charming student town of a reasonable size, well worth a look, but I can't say I did anything of much note here. Sighisoara is a very small town on the rail route between Cluj and Bucharest. It's ridiculously pretty, built onto a hill with buildings of pastel colours. More than anywhere else I've been so far it feels like a tourist trap, but it is maybe worth enduring the kitsch and the Dracula souvenirs to spend an afternoon here.
 
 ### Bucharest
 

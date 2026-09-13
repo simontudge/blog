@@ -145,7 +145,7 @@ Many great monuments underwhelm. The Colosseum seemed tiny to me compared to the
 
 This symbol of Mughal India was built by Shah Jahan, one of the Mughal emperors we’ve encountered earlier. He was devastated by the premature death of his wife, Mumtaz Mahal. Childbirth was a risky business back then, and although she’d managed it 13 times before, the 14th proved too much, and she died. Not even the love of his three other wives, nor the sexual attentions of his countless mistresses could placate Mr. Jahan. He was devastated. We don’t know what she looked like, as portraiture was not common in the Muslim world, but one can only imagine she was a beauty. So much so that Shah Jahan allocated a large chunk of his empire's considerable economic output to building her a grand mausoleum. His soul was broken, and so were the royal coffers. When he finished the building and then proposed constructing a mirror image in stunning black marble across the river, his son had had enough. Aurangzeb seized the throne, worried that if this megalomania continued, there would be nothing left when it came his turn. He imprisoned his father in the Red Fort across the valley in Agra. Shah Jahan asked only that his cell overlook his masterpiece, and this one last indulgence was granted by his son. Shah Jahan spent the rest of his miserable days at his son’s mercy, looking out onto the tomb of his wife, where, upon his death, he would later join her. A hopeless romantic? Or a crazed megalomaniac? Perhaps a little of both.
 
-Aurangzeb, for his part, was hardly the model ruler. He used the funds freed up from ceasing construction on the more pious task of persecuting Hindus. His name lives on in the hearts of Hindu nationalists as a byword for Muslim nastines. The Mughal empire was undoubtedly in its autumn years; the British were coming.
+Aurangzeb, for his part, was hardly the model ruler. He used the funds freed up from ceasing construction on the more pious task of persecuting Hindus. His name lives on in the hearts of Hindu nationalists as a byword for Muslim nastiness. The Mughal empire was undoubtedly in its autumn years; the British were coming.
 
 I realise now that visiting the Taj Mahal first and then the cantonment would have set up a much nicer historical bridge. But that’s not what happened, and to pretend otherwise would be dishonest. Next time.
 
@@ -226,7 +226,7 @@ Another day in the subcontinent. We rather aimlessly explore the old town. It’
 
 <figure>
   <img src="images/blue.jpg" alt="Blue" width="800" class='image-fluid'>
-  <figcaption>Jodpur in all its blue splendor.</figcaption>
+  <figcaption>Jodhpur in all its blue splendor.</figcaption>
 </figure>
 
 And now an indulgent tourist attraction for the afternoon. A series of six or seven zip lines, swerving their way between jagged outcrops of rocks, over gardens and lakes, all with eye-watering views of the fort. The history that you weave in between compliments the adrenaline rush of wizzing through the air on a rusty piece of wire, in a country with a relaxed attitude to health and safety. We survive and enjoy the experience, too in awe of our surroundings to be truly terrified.

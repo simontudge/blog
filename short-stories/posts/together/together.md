@@ -6,11 +6,11 @@ order: 2
 ---
 I've left it all behind. To escape the loneliness I've gone, on my own, into the wilderness and started walking. This way I can frame my solitude as a spiritual experience instead of a consequence of being unloved, unlovable even. This way my solitude is a choice. It's bearable to be without friends if no one is around to witness it.
 
-So I started walking. It's simple really; just follow the path until you get tired, then set up your tent. The next day do it again. Getting enough food is the only problem, but on a good day there are shepards around to sell you bread and cheese. On a really good day you pass a shop with chocolate and super noodles.
+So I started walking. It's simple really; just follow the path until you get tired, then set up your tent. The next day do it again. Getting enough food is the only problem, but on a good day there are shepherds around to sell you bread and cheese. On a really good day you pass a shop with chocolate and super noodles.
 
 After a while I even turned off my phone, only checking the GPS in emergencies. This way I could go for four or five days on a single charge. I'd long since uninstalled all social media, it was getting too crazy, and no one ever whatsapped me these days. I missed exactly nothing by turning off my phone; except for the empty feeling when I absently took it from my pocket to see a screen void of notifications blinking inanely at me.
 
-Absolutely anything could have happened in the world in the past few days. I would have no way of knowing: maybe the Queen is dead; maybe David Antenbourgh has been outed as a paedophile; maybe aliens have landed; maybe Israel and Palestine had reached an historic accord; maybe world war three had broken out. Actually the way things are going the latter no longer seemed so unlikely.
+Absolutely anything could have happened in the world in the past few days. I would have no way of knowing: maybe the Queen is dead; maybe David Attenborough has been outed as a paedophile; maybe aliens have landed; maybe Israel and Palestine had reached an historic accord; maybe world war three had broken out. Actually the way things are going the latter no longer seemed so unlikely.
 
 Perhaps it was hindsight, but I remember on the eighth day an eerie atmosphere had descended. It had been quiet the whole time, but the character of the quietness changed abruptly. It went from background noise kind of quietness to a piercing, deafening quietness that demanded to be listened to. Like how in a crowded bar you could ignore all manner of conversations exploding around you, but if a couple suddenly started whispering to each other then they demanded to be listened to.
 
@@ -28,7 +28,7 @@ It tumbled out: "I never really loved you, I was just with you because I was bor
 
 So here I am.
 
-Now I'm really spooked. As spooked as the dogs. The last three shepherds’ huts I had passed didn't try to beckon me in and sell me tea and pancakes. Instead a whole group of them were huddled around a radio. I couldn’t understand the language, too many guttural vowels and nasal consonants that sounded just like a wall of sound to my monoglutal ears, but it sounded like a news report, announced in serious tones.
+Now I'm really spooked. As spooked as the dogs. The last three shepherds’ huts I had passed didn't try to beckon me in and sell me tea and pancakes. Instead a whole group of them were huddled around a radio. I couldn’t understand the language, too many guttural vowels and nasal consonants that sounded just like a wall of sound to my monoglot ears, but it sounded like a news report, announced in serious tones.
 
 An elderly guy in the last group caught my eye. It seemed like pity in his eyes. That's a new one, I thought. Why would they pity me? Normally there is a sort of dollar lust in their eyes. Sometimes a sort of cautious curiosity; sometimes suspicious. Pity I haven't seen before.
 
@@ -64,11 +64,11 @@ I needed to eat after all so I went down to the town. The streets were empty. Th
 
 That was it then.
 
-I tried to withdraw some money, but the cash machine was, of course, offline, and it was otherwise crowbarred open and stripped bare of cash. In anycase what use would money be now; it had not decreased in value, it had, with an unceremonious puff, simply ceased to be money; without shops selling food money had simply turned into paper.
+I tried to withdraw some money, but the cash machine was, of course, offline, and it was otherwise crowbarred open and stripped bare of cash. In any case what use would money be now; it had not decreased in value, it had, with an unceremonious puff, simply ceased to be money; without shops selling food money had simply turned into paper.
 
 Back to the hills on an empty stomach. I still have the emergency 50 euros that I kept in my money belt. I persuaded a farmer to part with two loaves of bread, some cheese, biscuits and a few boiled eggs. I gave him the 50, expecting some change, but he took it all with a look that suggested he was doing me a favour; exchanging food for paper.
 
-I came across another tourist, not unheard of to date, but not exactly a daily occurance. I sat with him, because that seemed like the decent thing to do. There are heavy bags under his eyes, and a sort of feverish wet-rat like desperation to his demeanour.
+I came across another tourist, not unheard of to date, but not exactly a daily occurrence. I sat with him, because that seemed like the decent thing to do. There are heavy bags under his eyes, and a sort of feverish wet-rat like desperation to his demeanour.
 
 I asked him some trivial questions but he refused to speak. Maybe he was in shock, so I built a makeshift fire and sat with him in silence. He seemed nervous, I'm not sure he appreciated my company, but it had become too dark to move.
 

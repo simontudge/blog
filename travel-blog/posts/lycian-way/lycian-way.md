@@ -1,6 +1,6 @@
 ---
 title: "The Lycian Way"
-lead: "April 2022. The Lycian way is a 550 km long-distance trail in the South West of Turkey, stretching from Fethye to Anatalya, along the coast, passing through occasional tourist resort, as well as isolated goat farming territory, and forbidding peaks of over 2000m, that’s where I’m going. Quit my job, tent on my back, that’s where I’m going, with only Gozleme and the occasional kebab to fuel me, the walk will take the best part of a month. So let’s begin."
+lead: "April 2022. The Lycian way is a 550 km long-distance trail in the South West of Turkey, stretching from Fethiye to Antalya, along the coast, passing through occasional tourist resort, as well as isolated goat farming territory, and forbidding peaks of over 2000m, that’s where I’m going. Quit my job, tent on my back, that’s where I’m going, with only Gozleme and the occasional kebab to fuel me, the walk will take the best part of a month. So let’s begin."
 thumbnail: "/travel-blog/thumbnails/lycian-way.jpg"
 blurb: "A Thirty day hike in Turkey, by the name of the Lycian Way"
 order: 19
@@ -9,15 +9,15 @@ order: 19
 
 ### Day 1
 
-Earlish morning start, walk to Zuid and then to Schipol. It’s busy in Schipol, the pandemic is petering out, but the airport is still full of masked faces.
+Earlish morning start, walk to Zuid and then to Schiphol. It’s busy in Schiphol, the pandemic is petering out, but the airport is still full of masked faces.
 
 Flight passes, major turbulence, which is scary. There are so many ways that I had imagined dying: dog bites; falling off a cliff; dehydration, but the possibility of dying on route to Turkey had not crossed my mind.
 
-I didn’t die. Instead I arrived without fanfair in the pleasant city of Antalaya, which is actually the end point of the walk.
+I didn’t die. Instead I arrived without fanfare in the pleasant city of Antalya, which is actually the end point of the walk.
 
-Arriving in Turkey the faint whiff of propaganda is present, showing off their infrastructure etc. The taxi naturally charges me double, but it’s still half the price of what it would have cost in Amsterdam. I arrive at my hotel in a dream, not much time has passed; flying has the characteristic of teleportation, not like a train or a long bus ride. Nice boutique hotel, midrange in the old town of Antalya. The start, and also the future end of this little odysee. I play chess with a Finish guy (I lost), but I’m already thinking about the walk, almost itching to get going, but I will have to wait. The old town of the city, tourist chic, slightly pushy waitors, but cute (the town not the waiters). I wander to the habour, but my heart is not in tourism in and around Antalya, the real reason I am here is my soon to be close friend the Lycian way. I’m excited but also slightly apprehensive, can I make it? Will I be too tired, too lonely on my own, will dogs attack me, will I run out of water or food, will the sun kill me, will my delicate white skin flake off my body.
+Arriving in Turkey the faint whiff of propaganda is present, showing off their infrastructure etc. The taxi naturally charges me double, but it’s still half the price of what it would have cost in Amsterdam. I arrive at my hotel in a dream, not much time has passed; flying has the characteristic of teleportation, not like a train or a long bus ride. Nice boutique hotel, midrange in the old town of Antalya. The start, and also the future end of this little odyssey. I play chess with a Finish guy (I lost), but I’m already thinking about the walk, almost itching to get going, but I will have to wait. The old town of the city, tourist chic, slightly pushy waiters, but cute (the town not the waiters). I wander to the harbour, but my heart is not in tourism in and around Antalya, the real reason I am here is my soon to be close friend the Lycian way. I’m excited but also slightly apprehensive, can I make it? Will I be too tired, too lonely on my own, will dogs attack me, will I run out of water or food, will the sun kill me, will my delicate white skin flake off my body.
 
-The 10:30 am bus to Fethyi tomorrow, I try to sleep but I’m harassed by a mosquito, which kills my sleep. At 3am I relent and turn on all the lights and hunt the little bugger down. He’s dead, but so is my chance of a good night's sleep.
+The 10:30 am bus to Fethiye tomorrow, I try to sleep but I’m harassed by a mosquito, which kills my sleep. At 3am I relent and turn on all the lights and hunt the little bugger down. He’s dead, but so is my chance of a good night's sleep.
 
 ### Day 2
 
@@ -139,7 +139,7 @@ I go for a bracing swim in the bay with Sonja, and admire the semi-submerged rui
 
 I set off alone, but now I feel like I have a bit of a crew. It’s me, Gül, Mo and Sonja. We fall into a steady rhythm. They walk slower than I do, but with fewer long breaks, so it kind of evens out. It’s a very different experience with the group. The isolation was an intense and meaningful experience, but with 30 days of that I would have gone mad, so the company is very much welcome.
 
-We come to a little town by the name of NAME, which is actually unexpectedly a little tourist hot spot. We stuff ourselves with ice-creams and coke at the little kiosk here, and walk a bi further into town. I drink two Turkish coffees back-to-back, and stop in a little restaurant, proudly claiming to be home to the best chef on the Mediterrenean. I’m not sure about the claim, but the shrips are delicious. Coffeed and prawned I’m ready to go again. Sonja is desperate to try the boat trip here, which is something that all the tourists guides recommend, but the weather is actually quite rough, and I’m more interested in walking, so we leave Sonja behind, and continue with Gül and Mo, further towards the town of Demre. We camp somewhere near the coast. Yet another idilic spot with a private swimming pool (aka the sea).
+We come to a little town by the name of NAME, which is actually unexpectedly a little tourist hot spot. We stuff ourselves with ice-creams and coke at the little kiosk here, and walk a bi further into town. I drink two Turkish coffees back-to-back, and stop in a little restaurant, proudly claiming to be home to the best chef on the Mediterranean. I’m not sure about the claim, but the shrimps are delicious. Coffeed and prawned I’m ready to go again. Sonja is desperate to try the boat trip here, which is something that all the tourists guides recommend, but the weather is actually quite rough, and I’m more interested in walking, so we leave Sonja behind, and continue with Gül and Mo, further towards the town of Demre. We camp somewhere near the coast. Yet another idyllic spot with a private swimming pool (aka the sea).
 
 <figure>
   <img src="images/beach.jpg" alt="Waterfall at Dalat" width="800" class='image-fluid'>
@@ -148,7 +148,7 @@ We come to a little town by the name of NAME, which is actually unexpectedly a l
 
 ### Day 15
 
-Our next stop is the (relatively) big city of Demre. It’s quite large compared to the little hamlets that we’ve been stocking up in so far, but it has very little in the way of tourism, appart from boasting to chapel of saint Nicolas (aka farther Christmas, or santa clause if you prefer).
+Our next stop is the (relatively) big city of Demre. It’s quite large compared to the little hamlets that we’ve been stocking up in so far, but it has very little in the way of tourism, apart from boasting to chapel of saint Nicolas (aka farther Christmas, or santa clause if you prefer).
 
 Not too strenuous a day of walking, as we near the town of Demre. We stop in a very beautiful pension and eat some gözleme and drink some tea. Mo takes off all his clothes to have a poo in the squat toilet. A rickety bridge to cross onto a beach Then a long walk through the town, which is a bit annoying and begins to hurt my feet. We hit up a proper coffee place and enjoy an americano and a great poo. We meet the dog Peynir, who follows us everywhere, even into the clothes shop. Great kebabs. We stay in a proper apartment by the beach, only made possible through our resident interpreter.
 
@@ -156,7 +156,7 @@ Not too strenuous a day of walking, as we near the town of Demre. We stop in a v
 
 We leave at the break of dawn. The next three stages are cumulatively some of the toughest of the whole trail. There is not much water, and no food for most of it, so we have to carry a lot. We plan to do the three day hike in 2 days, to cut down on the supplies we have to carry, which will make it a tough one. We have to spend quite some time simply walking through the town, and then a long road to the edge of town and to the start of the trail proper. There are many young children waiting by the side of the road waiting to be picked up by their school buses, although we left at around 6.30 we are not really at the trail head until just before 9. The start of the trail is very ad-hoc, it looks like some green houses have been built after the trail was laid down, and the beginning is quite tricky and hard to find.
 
-Three stray dogs follow us from the town, including the one who befriended us yesterday. They seem to take everything in their stride, they are Paynir (cheese), ekmek (bread) and zuyten (olive). Ekmek gets attacked by a shepherd dog half way up and disappears, if this were a horror movie he would be the token ethnic character who died first. We fetch the dogs some water from a nearby well as they are gasping with thirst. I’ve never really got dogs, but their company is quite reassuring and touching, and I begin to understand the appeal.
+Three stray dogs follow us from the town, including the one who befriended us yesterday. They seem to take everything in their stride, they are Paynir (cheese), ekmek (bread) and zeytin (olive). Ekmek gets attacked by a shepherd dog half way up and disappears, if this were a horror movie he would be the token ethnic character who died first. We fetch the dogs some water from a nearby well as they are gasping with thirst. I’ve never really got dogs, but their company is quite reassuring and touching, and I begin to understand the appeal.
 
 We reach the last town for a while, and stock up on water. There is nothing here much apart from the fountain. I’m now carrying nearly 5 liters of water, which makes my pack almost unbearably heavy.
 
@@ -175,7 +175,7 @@ It’s suddenly very cold, we are camping at 1800m, and we are covered in sweat 
 
 We get up slightly later than yesterday as we are still very tired. Mo sets off on his own, probably because he needs a poo and is unwilling to open his bowels in the woods. My and Gul set off a little later and start making our way down the hill. There is a tiny bit of snow left on the trail, not enough to cause problems, but enough to be an interesting diversion. The going is really easy compared to yesterday, gentle ups and downs, and the views stunning, so we are in high spirits. We check our GPS and it feels like we are powering through the kilometers. Our next stop is Finke, and it feels within reach.
 
-There are cows here, and we find a dead one, more evidence, we think, of protrolling wolves.
+There are cows here, and we find a dead one, more evidence, we think, of patrolling wolves.
 
 Suddenly the going gets incredibly tough, towards the end of the trail. It’s such loose and steep rocks that we are suddenly exhausted, and the high mood of earlier suddenly disappears, and I’m a bit grumpy.
 
@@ -187,7 +187,7 @@ Finally, we reach Finke around 6, and I’m absolutely done in. Enrie and Heike 
 
 ### Day 18
 
-Rest day in Finke. Gul and Mo continue, there is no stopping them. Ernie, Heike and I stay in the flat. They want to go for a walk in the area, but I refuse to walk at all today, so I take the bus back into the town. There our two dogs greet me, they seem to recognise me, and Zuyten rolls onto his belly in submission. I sit in a cafe for hours and catch up with some friends on my phone and drink some proper coffee. Then it’s time for the hammam again. This is a real local affair, and a real treat. I feel reborn and renewed. More than this I do not do, and head back to the flat for a lazy evening with Heike and Ernie.
+Rest day in Finke. Gul and Mo continue, there is no stopping them. Ernie, Heike and I stay in the flat. They want to go for a walk in the area, but I refuse to walk at all today, so I take the bus back into the town. There our two dogs greet me, they seem to recognise me, and Zeytin rolls onto his belly in submission. I sit in a cafe for hours and catch up with some friends on my phone and drink some proper coffee. Then it’s time for the hammam again. This is a real local affair, and a real treat. I feel reborn and renewed. More than this I do not do, and head back to the flat for a lazy evening with Heike and Ernie.
 
 ### Day 19
 
@@ -226,7 +226,7 @@ To bed.
 
 ### Day 21
 
-Another rest day. It’s an indulgence, but I am, afterall, on holiday. This time I go with Gül and her friends for a diving trip. I’ve never tried it, but they are seasoned experts, and luckily also instructors. So I’ve, rather serendipitously, wrangled myself a diving taster lesson. The diving is an incredible experience, as is the lounging in the sun with beers on the boat afterwards. We spend the entire day doing this, the diving lasts only an hour, but the beering and sun-lounging lasts much longer. I get a bit of a sun-burn, but I’m happy.
+Another rest day. It’s an indulgence, but I am, after all, on holiday. This time I go with Gül and her friends for a diving trip. I’ve never tried it, but they are seasoned experts, and luckily also instructors. So I’ve, rather serendipitously, wrangled myself a diving taster lesson. The diving is an incredible experience, as is the lounging in the sun with beers on the boat afterwards. We spend the entire day doing this, the diving lasts only an hour, but the beering and sun-lounging lasts much longer. I get a bit of a sun-burn, but I’m happy.
 
 ### Day 22
 
@@ -242,7 +242,7 @@ It’s some of the best hiking on the whole route, and feels isolated at times, 
 
 Now it’s a steady descent for a long time. This is actually quite tough, but the scenery is still stunning, and as the afternoon wears on it feels increasingly isolated and remote, that’s the feeling I like to hike for. There are bits of snow on the trail which slow us down, and we get lost frequently. We are pretty tired when we reach the town so we opt to stay in a pension.
 
-We stay with a local family and have dinner with them. They are just sharing what they would normally eat, so it feels like a nice experience. The pension feels super nice, and I sleep amazingingly well. One of the benefits of roughing it is that even the smallest luxuries (a bed and a warm shower) feel amazing.
+We stay with a local family and have dinner with them. They are just sharing what they would normally eat, so it feels like a nice experience. The pension feels super nice, and I sleep amazingly well. One of the benefits of roughing it is that even the smallest luxuries (a bed and a warm shower) feel amazing.
 
 ### Day 24
 
@@ -278,13 +278,13 @@ It’s one more big climb, the last high point then it’s all downhill. It’s 
 
 Now we descend, the final, long, descent to the town of Geyikbayiri, and the terminus of the LW. It’s a tough scramble down, and one of the worst marked bits of the whole trail. This last stage was added later to the official LW, and it is less well maintained. It’s a totally different geography, with a rich red rock that we often have to scramble across.
 
-Gul spies some people drinking tea on a terres, and asks if they will give us some tea, which of course they do. One last tea drinking session with the locals, and an experience I could not be having if I were not with Gül.
+Gul spies some people drinking tea on a terrace, and asks if they will give us some tea, which of course they do. One last tea drinking session with the locals, and an experience I could not be having if I were not with Gül.
 
 I keep looking at the GPS, 6k to go, then 5, 4, 3 and a half, nearly there. Tiredness is creeping up on us, but it doesn’t really matter because we know we don’t have to leave anything in the tank. We lose concentration, and both fall. Gul quite spectacularly, tumbling across the path and rolling several times. Luckily she is OK.
 
 We reach the outskirts of Geyikbayiri. There are lots of people climbing, and more hippy types hanging out at the river at the bottom of the hill. I fall again and cut my hand badly and end up finishing the walk covered in blood.
 
-One more little hill to the road and the end of the trail. Suddenly the road is there and the sign, a small anti-climatic bord telling the reader that you have reached the end, and we are done. We have walked the Lycian way. Many people say they feel a sort of ant-climax, but I feel genuinely elated. It’s good to have shared it with Gul, on my own it might have felt strange and empty, but so much better to share it with someone.
+One more little hill to the road and the end of the trail. Suddenly the road is there and the sign, a small anti-climatic board telling the reader that you have reached the end, and we are done. We have walked the Lycian way. Many people say they feel a sort of ant-climax, but I feel genuinely elated. It’s good to have shared it with Gul, on my own it might have felt strange and empty, but so much better to share it with someone.
 
 <figure>
   <img src="images/end.jpg" alt="Waterfall at Dalat" width="800" class='image-fluid'>
