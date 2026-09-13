@@ -1,6 +1,9 @@
 ---
 title: "Thailand Part 1"
 lead: "November 2017: I flew through the night from Almaty to Bangkok. I plan to spend a few weeks here before moving overland to Cambodia."
+thumbnail: "/travel-blog/thumbnails/thailand_1.jpg"
+blurb: "My first visit to Thailand: Bangkok, Kanchanaburi, Ayattaya and Khao Yhai."
+order: 13
 ---
 ### Bangkok
 

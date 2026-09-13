@@ -1,6 +1,9 @@
 ---
 title: "Cambodia"
 lead: "December 2017: I've crossed overland from Bangkok to the small town of Battambang in Cambodia and aim to spend a few weeks here before heading further east into Vietnam."
+thumbnail: "/travel-blog/thumbnails/cambodia.jpg"
+blurb: "Temples, islands, cities, motorbikes and fried grasshoppers"
+order: 14
 ---
 ### Batambang
 

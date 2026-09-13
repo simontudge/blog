@@ -1,6 +1,9 @@
 ---
 title: "Azerbaijan"
 lead: "September 2017: I've taken the overnight train from Georgia to the capital: Baku. I don't have too much time to explore and understand this enigmatic country, as I have a flight in three days, so I've restricted myself to exploring Baku and the surrounding areas."
+thumbnail: "/travel-blog/thumbnails/azerbaijan.jpg"
+blurb: "Overnight train to Baku, before I fly to central Asia, just time to take in Azerbaijan's otherworldly mud volcanoes."
+order: 9
 ---
 ### Baku
 

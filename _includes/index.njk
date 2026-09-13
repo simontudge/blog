@@ -1,0 +1,19 @@
+---
+layout: base.njk
+---
+<header class="page-head">
+  <h1>{{ title }}</h1>
+  {% if lead %}<p class="lead">{{ lead }}</p>{% endif %}
+</header>
+
+<ul class="cards">
+  {%- for post in collections[collection] | sort(attribute="data.order") %}
+  <li>
+    <a href="{{ post.url | replace('.html', '') }}">
+      <img src="{{ post.data.thumbnail }}" alt="" loading="lazy" decoding="async">
+      <h2>{{ post.data.title }}</h2>
+      {% if post.data.blurb %}<p>{{ post.data.blurb }}</p>{% endif %}
+    </a>
+  </li>
+  {%- endfor %}
+</ul>

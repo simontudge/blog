@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    {% if lead %}<meta name="description" content="{{ lead | striptags | truncate(155) }}">{% endif %}
+
+    <link rel="stylesheet" href="/site.css">
+
+    <title>{% if pageTitle %}{{ pageTitle }}{% elif title %}{{ title }} — Simon's Blog{% else %}Simon's Blog{% endif %}</title>
+  </head>
+  <body>
+
+    <nav class="masthead">
+      <a href="/">Simon's Blog</a>
+      {% if crumb %}<span>/</span> <a href="{{ crumbHref }}">{{ crumb }}</a>{% endif %}
+    </nav>
+
+    {{ content | safe }}
+
+  </body>
+</html>

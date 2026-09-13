@@ -1,6 +1,9 @@
 ---
 title: "India"
 lead: "January - February 2024. It's time to see India."
+thumbnail: "/travel-blog/thumbnails/india.jpg"
+blurb: "The Desi Diaries; a day by day account of our three week trip to the sub-continent"
+order: 20
 ---
 ## Jan 2024
 

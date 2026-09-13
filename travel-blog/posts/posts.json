@@ -1,5 +1,7 @@
 {
   "layout": "post.njk",
   "tags": ["travel"],
+  "crumb": "Travel",
+  "crumbHref": "/travel-blog/",
   "permalink": "/travel-blog/posts/{{ page.fileSlug }}/{{ page.fileSlug }}.html"
 }

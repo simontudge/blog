@@ -1,6 +1,9 @@
 ---
 title: "Turkey"
 lead: "September 2017: I've left Europe proper, heading down the black sea coast to Istanbul, where I plan to take a train to the very eastern edge of the country before heading into Georgia."
+thumbnail: "/travel-blog/thumbnails/turkey.jpg"
+blurb: "All the way from Istanbul to the very east of the country, by train and bus."
+order: 7
 ---
 ### Istanbul
 

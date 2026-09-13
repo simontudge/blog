@@ -1,6 +1,9 @@
 ---
 title: "Romania"
 lead: "I left the Ukraine and passed into the north east of Romania by bus into the northern town of Suceava, continuing my journey towards Istanbul."
+thumbnail: "/travel-blog/thumbnails/romania.jpg"
+blurb: "Facinating trip from the very north east of this enchanting country to see the painted monestries near Suceava, hiking in Maramures, train through Transivania, the capital and partying on the black sea."
+order: 5
 ---
 ### Suceava
 

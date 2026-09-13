@@ -1,6 +1,9 @@
 ---
 title: "Uzbekistan"
 lead: "October 2017: Both Turkmenistan and Iran prove a bit tricky with the visas, so I fly over the Caspian sea to the capital of Uzbekistan: Tashkent, and join a tour group through this land locked country."
+thumbnail: "/travel-blog/thumbnails/uzbekistan.jpg"
+blurb: "Tour through the silk road cities of this mysterious and closed country."
+order: 10
 ---
 ### Tashkent
 

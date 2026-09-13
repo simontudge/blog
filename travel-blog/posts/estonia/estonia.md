@@ -1,6 +1,9 @@
 ---
 title: "Estonia"
 lead: "July 2017: first leg of the seven month journey east, flew from London-Gatwick to Tallinn, the capital of Estonia, to begin the long journey east towards Vietnam."
+thumbnail: "/travel-blog/thumbnails/estonia.jpg"
+blurb: "First country on the trip, starting with summer in Tallinn, canoeing in the bogs of Soomaa, and cycling the island of Kihnu."
+order: 1
 ---
 ### About Estonia
 

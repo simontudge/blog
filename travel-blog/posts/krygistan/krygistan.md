@@ -1,6 +1,9 @@
 ---
 title: "Kyrgyzstan"
 lead: "October 2017: The Journey through central Asia continues overland, crossing into Osh through the Fergana valley."
+thumbnail: "/travel-blog/thumbnails/krygistan.jpg"
+blurb: "Culture and walking on the roof of the world in this little known mountain republic."
+order: 11
 ---
 ### Osh
 

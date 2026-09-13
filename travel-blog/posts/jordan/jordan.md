@@ -1,6 +1,9 @@
 ---
 title: "Jordan"
 lead: "Blog post from the ten day trip I did from the North to the south of Jordan in the winter of 2016."
+thumbnail: "/travel-blog/thumbnails/jordan.jpg"
+blurb: "A ten day trip in the winter of 2016 to the kingdom of Jordan, from the capital Amman to the ruins of Petra, via Dana national park."
+order: 0
 ---
 I grew up in the North of England, which was, at one point, the barbarous northern edge of the Roman empire. A mere five hour flight away is the Jordanian capital of Amman and the nearby Roman ruins of Jerash. Strange to think then that, around 2000 years ago, one could have made this trip overland without ever leaving the empire in which you started. Depending upon your route this trip might now take you through 11 different countries. Somewhat short on time, and not fancying a run in with Assad’s thugs or ISIS, I opted for the 5 hour BA flight from Heathrow to Amman Queen Alia airport. North of the city of Amman is the Roman ruin of Jerash. Hadrian’s wall this is not, this place is a massive labyrinth of grand imposing spaces and towering pillars, testament to the genius of these great latin engineers. Another hour's drive north from here and you would be at the edge of another collapsing civilization: Syria. The only reminder of the tragic events taking place in Jordan’s fractious neighbour is the constant stream of Syrians that you meet on your travels, intensifying as you go further north towards the border. By contrast Jordan seems serenely calm, almost sleepily peaceful. But for the occasional other tourist and the overly zealous taxi drivers one is left to meander this great kingdom entirely at one’s own pace, and largely by oneself. Gone are the great hoards of tourists that once came here. Just as the Roman pillars tell of a people who once inhabited this land, the myriad empty tourist hotels tell of the tourists who similarly once descended on Jordan, but have since left the place.
 

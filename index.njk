@@ -1,0 +1,35 @@
+---
+layout: base.njk
+title: ""
+permalink: "/index.html"
+eleventyExcludeFromCollections: true
+sections:
+  - name: "Travel"
+    href: "/travel-blog/"
+    image: "/travel-blog/thumbnails/uzbekistan.jpg"
+    blurb: "Seven months overland from Estonia to Vietnam, and a few other trips besides."
+  - name: "Short Stories"
+    href: "/short-stories/"
+    image: "/short-stories/thumbnails/cave.jpeg"
+    blurb: "A collection of short stories."
+  - name: "Film"
+    href: "/film/"
+    image: "/film/thumbnails/monos.jpeg"
+    blurb: "Film reviews."
+---
+<header class="page-head">
+  <h1>Simon's Blog</h1>
+  <p class="lead">I write mostly about travel and film.</p>
+</header>
+
+<ul class="cards">
+  {%- for s in sections %}
+  <li>
+    <a href="{{ s.href }}">
+      <img src="{{ s.image }}" alt="" loading="lazy" decoding="async">
+      <h2>{{ s.name }}</h2>
+      <p>{{ s.blurb }}</p>
+    </a>
+  </li>
+  {%- endfor %}
+</ul>

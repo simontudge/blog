@@ -1,35 +1,13 @@
-<!doctype html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    {% if lead %}<meta name="description" content="{{ lead | truncate(155) }}">{% endif %}
+---
+layout: base.njk
+---
+<main>
+  <h1>{{ title }}</h1>
+  {% if lead %}<p class="lead">{{ lead }}</p>{% endif %}
 
-    <link rel="stylesheet" href="/post.css">
+  {{ content | safe }}
+</main>
 
-    <title>{{ title }} — Simon's Blog</title>
-  </head>
-  <body>
-
-    {% set section = "/travel-blog/" if "travel" in tags else "/short-stories/" %}
-    {% set sectionName = "Travel" if "travel" in tags else "Short Stories" %}
-
-    <nav class="masthead">
-      <a href="/">Simon's Blog</a>
-      <span>/</span>
-      <a href="{{ section }}">{{ sectionName }}</a>
-    </nav>
-
-    <main>
-      <h1>{{ title }}</h1>
-      {% if lead %}<p class="lead">{{ lead }}</p>{% endif %}
-
-      {{ content | safe }}
-    </main>
-
-    <footer class="post-footer">
-      <a href="{{ section }}">← More {{ sectionName | lower }}</a>
-    </footer>
-
-  </body>
-</html>
+<footer class="post-footer">
+  <a href="{{ crumbHref }}">← More {{ crumb | lower }}</a>
+</footer>

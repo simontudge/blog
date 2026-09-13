@@ -1,6 +1,9 @@
 ---
 title: "Kazakhstan"
 lead: "October-November 2017: The final stop on the Central Asian part of the journey before my flight to Thailand."
+thumbnail: "/travel-blog/thumbnails/kazakhstan.jpg"
+blurb: "A brief stop in the city of Almaty and a trip to the nearby mountains."
+order: 12
 ---
 ### Almaty
 

@@ -1,6 +1,9 @@
 ---
 title: "Bulgaria"
 lead: "Short post about a very short trip through Bulgaria. As much as I'd love to explore this country in greater depth Turkey is beckoning."
+thumbnail: "/travel-blog/thumbnails/bulgaria.jpg"
+blurb: "Regretably short transit along the black sea cost in Bulgaria as I make my way towards Turkey."
+order: 6
 ---
 ### Varna
 

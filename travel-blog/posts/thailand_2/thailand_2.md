@@ -1,6 +1,9 @@
 ---
 title: "Thailand Part 2"
 lead: "January 2018: I flew from Luang Prabang in Lao to Chiang Mai in the north of Thailand. The very last stop on my epic trip, before heading back to Bangkok and home to England."
+thumbnail: "/travel-blog/thumbnails/thailand_2.jpg"
+blurb: "Second visit to Thailand, focusing on the mountainous north of the kingdom, and the island of Koh Kood."
+order: 17
 ---
 As we skip through the small airport of Chiang Mai and out of the gates a ladyboy with a tuk-tuk cattily asks us if we want a ride into the centre; as if unaware of the cheap stereotypes that she is reinforcing. On the ride into town, billboards advertise 'special massages'; street vendors sell smoothies; tuk-tuk drivers loiture ominously on street corners; a plethora of sweet and savoury (and unsavoury) smells woft into my nostrils. The ladyboy strokes my leg and purrs 'welcome back sir! You've been sorely missed! Would you like a massage sir!' (This last thing may not have actually happened, but I don't let the truth get in the way of a good story). Hello Thailand my old friend!
 

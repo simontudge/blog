@@ -1,5 +1,8 @@
 ---
 title: "The Farm"
+thumbnail: "/short-stories/thumbnails/adam-and-eve.jpeg"
+blurb: "A retelling of the biblical story of Adam and Eve, imagining humanity's descent from paradise in a new light."
+order: 1
 ---
 ## Eve
 

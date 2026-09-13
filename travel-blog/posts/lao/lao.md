@@ -1,6 +1,9 @@
 ---
 title: "Lao"
 lead: "January 2018: Having left Vietnam I flew to the capital of Lao: Vientiane, and make my way north towards Luang Prabang."
+thumbnail: "/travel-blog/thumbnails/lao.jpg"
+blurb: "A ten day journey from Vietianne to Laung Prabang in this sleepy little socialist gem."
+order: 16
 ---
 Vietnam has the feeling of being a never ending city; even the countryside is busy. Lao is the perfect antidote to the overcrowding of Vietnam. If the whole of Lao were a city in Vietnam it would only be the third biggest in the country; both Hanoi and Saigon have a population bigger than the whole of Lao. If the capital, Vientiane were in Vietnam it would not even make the list of top ten biggest cities. It is in short blissfully quiet. So I arrived to a sparsely populated, rural, poor little Lao and the capital city of Vientiane.
 

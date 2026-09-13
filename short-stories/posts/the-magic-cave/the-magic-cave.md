@@ -1,5 +1,8 @@
 ---
 title: "The Magic Cave"
+thumbnail: "/short-stories/thumbnails/fireflies.webp"
+blurb: "Fourteen year old Kiera is frustrated with the old men in her argumentative little village. She wanders off into the nearby mountains where she discovers a magic cave that whispers back to her in her own voice."
+order: 0
 ---
 ## Autumn
 

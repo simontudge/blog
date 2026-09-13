@@ -1,6 +1,9 @@
 ---
 title: "Ukraine"
 lead: "I entered Ukraine from the west, on the train from Krakow to Lviv, and then headed east on the overnight train to Kiev, taking in the Chernobyl site and finally heading south to Chernivtsi before crossing into Romania."
+thumbnail: "/travel-blog/thumbnails/ukraine.jpg"
+blurb: "Trip by train through this facinating and underated country on the eastern flank of Europe; taking in Lviv, Kiev and chernivtsi, with a tour of Chernobyl on route."
+order: 4
 ---
 ### Lviv
 

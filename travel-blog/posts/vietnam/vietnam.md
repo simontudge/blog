@@ -1,6 +1,9 @@
 ---
 title: "Vietnam"
 lead: "December 2017 - January 2018: I've flown to Siagon where I will begin the Vietnam legs of the trip, heading slowly north towards Hanoi and further before heading off to Lao."
+thumbnail: "/travel-blog/thumbnails/vietnam.jpg"
+blurb: "South to North in this eastern most point of my trip"
+order: 15
 ---
 A short hop flight which avoids the tedious bureaucracy of the land border and I was in the city formerly known as Saigon, as the locals still call it, but officially going by the name of Ho Chi Minh city, after the eponymous hero of the communist revolution. Vietnam occupies an almost legendary status in my imagination, and I was eager to begin exploring this perplexing land for myself.
 

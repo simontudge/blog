@@ -1,5 +1,8 @@
 ---
 title: "New Girlfriend"
+thumbnail: "/short-stories/thumbnails/new-girlfriend.jpeg"
+blurb: "A lonely man finds love..."
+order: 3
 ---
 ## January 12th, 2021
 

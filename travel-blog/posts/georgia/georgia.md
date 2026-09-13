@@ -1,6 +1,9 @@
 ---
 title: "Georgia"
 lead: "September 2017: I've crossed by bus from the Turkish town of Kars along the black sea to the seaside town, and second city of Georgia, Batumi."
+thumbnail: "/travel-blog/thumbnails/georgia.jpg"
+blurb: "From Batumi to Tblisi by minibus, via the high mountains of Svaneti and the birth place of Stalin."
+order: 8
 ---
 ### Batumi
 

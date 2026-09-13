@@ -1,6 +1,9 @@
 ---
 title: "Israel"
 lead: "I’ve finished my 9 month long break from work and have moved to the Netherlands. For the moment my travelling is more of the short holiday variety. Here I talk about a very interesting ten day dipping of my toe into the promised land: Israel."
+thumbnail: "/travel-blog/thumbnails/israel.jpg"
+blurb: "A ten day trip to the land of humus, hippsters and ethno-religous tension"
+order: 18
 ---
 ## A Beginning
 

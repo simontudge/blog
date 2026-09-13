@@ -1,6 +1,9 @@
 ---
 title: "The Lycian Way"
 lead: "April 2022. The Lycian way is a 550 km long-distance trail in the South West of Turkey, stretching from Fethye to Anatalya, along the coast, passing through occasional tourist resort, as well as isolated goat farming territory, and forbidding peaks of over 2000m, that’s where I’m going. Quit my job, tent on my back, that’s where I’m going, with only Gozleme and the occasional kebab to fuel me, the walk will take the best part of a month. So let’s begin."
+thumbnail: "/travel-blog/thumbnails/lycian-way.jpg"
+blurb: "A Thirty day hike in Turkey, by the name of the Lycian Way"
+order: 19
 ---
 ## The Lycian way Diaries
 

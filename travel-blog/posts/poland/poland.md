@@ -1,5 +1,8 @@
 ---
 title: "Poland"
+thumbnail: "/travel-blog/thumbnails/poland.jpg"
+blurb: "Ten days in Poland, on route to Ukraine. I was joined by my brother for a week and we centred our trip on Warsaw and Krakow, with an educational stop at Aushwitz."
+order: 3
 ---
 ### Warsaw
 

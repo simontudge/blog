@@ -1,6 +1,9 @@
 ---
 title: "Latvia and Lithuania"
 lead: "Apologies for rolling these two countries into one. I didn't spend nearly long enough in either of these two Baltic beauties, having spent a while in Estonia, and needing to move on to Poland soon to meet my brother. I focus on the two cities of Riga and Kaunas. I hope to come back here one day to do this place justice."
+thumbnail: "/travel-blog/thumbnails/latvia-and-lithuania.jpg"
+blurb: "A short hop through the two Baltic countries of Latvia and Lithuania on my way to Poland; mostly the cities of Riga and Kaunas."
+order: 2
 ---
 ## Latvia
 

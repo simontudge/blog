@@ -1,5 +1,8 @@
 ---
 title: "Together"
+thumbnail: "/short-stories/thumbnails/mushrooms.jpeg"
+blurb: "A young man leaves his troubles behind to hike in the wilderness only to find that cataclysmic events unfold in the world whilst he is disconnected. A musing on love, loneliness, pain and war."
+order: 2
 ---
 I've left it all behind. To escape the loneliness I've gone, on my own, into the wilderness and started walking. This way I can frame my solitude as a spiritual experience instead of a consequence of being unloved, unlovable even. This way my solitude is a choice. It's bearable to be without friends if no one is around to witness it.
 
