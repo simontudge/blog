@@ -5,15 +5,18 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.setTemplateFormats(["md", "njk"]);
 
   const IMAGES = "{jpg,JPG,jpeg,JPEG,png,PNG,webp,gif}";
-  eleventyConfig.addPassthroughCopy("style.css");
+  // style.css is only used by the unpublished film pages; it stays in the
+  // repo for them but is no longer copied into the site.
   eleventyConfig.addPassthroughCopy("site.css");
-  for (const section of ["film", "short-stories", "travel-blog"]) {
+  for (const section of ["short-stories", "travel-blog"]) {
     eleventyConfig.addPassthroughCopy(`${section}/**/*.html`);
     eleventyConfig.addPassthroughCopy(`${section}/**/*.${IMAGES}`);
   }
 
   // Scratch templates from the hand-written days, not part of the site.
   eleventyConfig.ignores.add("templates/**");
+  // The film reviews stay in the repo but are no longer published.
+  eleventyConfig.ignores.add("film/**");
   // Working notes, not posts.
   eleventyConfig.ignores.add("todo.md");
   eleventyConfig.ignores.add("**/README.md");
