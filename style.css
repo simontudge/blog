@@ -55,6 +55,10 @@ footer p {
 
 img {
     image-orientation: from-image;
+    /* Posts carry class="image-fluid", a typo for Bootstrap's img-fluid, so
+       it matches no rule. Without this, images overflow on narrow screens. */
+    max-width: 100%;
+    height: auto;
 }
 
 .rotate90 {

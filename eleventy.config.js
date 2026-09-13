@@ -6,6 +6,7 @@ module.exports = function (eleventyConfig) {
 
   const IMAGES = "{jpg,JPG,jpeg,JPEG,png,PNG,webp,gif}";
   eleventyConfig.addPassthroughCopy("style.css");
+  eleventyConfig.addPassthroughCopy("post.css");
   eleventyConfig.addPassthroughCopy("index.html");
   for (const section of ["film", "short-stories", "travel-blog"]) {
     eleventyConfig.addPassthroughCopy(`${section}/**/*.html`);

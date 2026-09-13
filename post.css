@@ -1,0 +1,217 @@
+/* Typography for long-form posts. Self-contained: post pages do not load
+   Bootstrap, which they only ever used for three utility classes. */
+
+:root {
+  --measure: 38rem;        /* ~68 characters at the base size */
+  --figure-width: 52rem;   /* figures breathe wider than the text column */
+  --bg: #fffefb;
+  --text: #23211e;
+  --muted: #6b6660;
+  --rule: #e3ded5;
+  --link: #8a4b2a;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #17171a;
+    --text: #e4e0d8;
+    --muted: #9b958b;
+    --rule: #33323a;
+    --link: #d99a6e;
+  }
+}
+
+html {
+  font-size: 100%;
+  background: var(--bg);
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: Charter, "Bitstream Charter", "Iowan Old Style", "Sitka Text",
+    Cambria, Georgia, "Times New Roman", serif;
+  /* Scales from comfortable on a phone to generous on a desktop. */
+  font-size: clamp(1.0625rem, 0.98rem + 0.42vw, 1.1875rem);
+  line-height: 1.65;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* ---- page furniture ---- */
+
+.masthead {
+  max-width: var(--figure-width);
+  margin: 0 auto;
+  padding: 1.5rem 1.25rem 0;
+  display: flex;
+  gap: 0.75rem;
+  align-items: baseline;
+  font-size: 0.8125rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+
+.masthead a {
+  color: inherit;
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+}
+
+.masthead a:hover {
+  color: var(--text);
+  border-bottom-color: var(--rule);
+}
+
+.masthead span {
+  opacity: 0.5;
+}
+
+main {
+  max-width: var(--measure);
+  margin: 0 auto;
+  padding: 0 1.25rem 5rem;
+}
+
+/* ---- headings ---- */
+
+h1 {
+  margin: 2.5rem 0 0;
+  font-size: clamp(2rem, 1.5rem + 2.2vw, 3rem);
+  line-height: 1.1;
+  font-weight: 600;
+  letter-spacing: -0.015em;
+}
+
+/* The standfirst: sets up the post, so it reads a size above the body. */
+.lead {
+  margin: 1.25rem 0 0;
+  font-size: 1.15em;
+  line-height: 1.5;
+  color: var(--muted);
+}
+
+h1 + .lead::after,
+.lead:last-of-type::after {
+  content: "";
+  display: block;
+  width: 4rem;
+  margin: 2rem 0 0;
+  border-top: 1px solid var(--rule);
+}
+
+h2,
+h3,
+h4 {
+  line-height: 1.25;
+  font-weight: 600;
+  /* Bound to the text below, separated from the text above. */
+  margin: 2.75rem 0 0.75rem;
+}
+
+h2 {
+  font-size: 1.5em;
+}
+
+h3 {
+  font-size: 1.2em;
+  color: var(--muted);
+  letter-spacing: 0.02em;
+}
+
+h4 {
+  font-size: 1.05em;
+}
+
+/* ---- prose ---- */
+
+p {
+  /* Ragged right: justified text without hyphenation opens rivers of
+     white space, which is what made these posts hard to read. */
+  text-align: left;
+  margin: 0 0 1.25em;
+}
+
+main > p:first-of-type,
+h1 + p,
+.lead + p {
+  margin-top: 1.5rem;
+}
+
+a {
+  color: var(--link);
+  text-underline-offset: 0.15em;
+  text-decoration-thickness: 1px;
+}
+
+blockquote {
+  margin: 2rem 0;
+  padding-left: 1.25rem;
+  border-left: 2px solid var(--rule);
+  color: var(--muted);
+  font-style: italic;
+}
+
+blockquote p:last-child {
+  margin-bottom: 0;
+}
+
+hr {
+  width: 4rem;
+  margin: 3rem auto;
+  border: 0;
+  border-top: 1px solid var(--rule);
+}
+
+/* ---- figures ---- */
+
+figure {
+  /* Break out of the text column, but stay within the viewport. */
+  width: min(var(--figure-width), 100vw - 2.5rem);
+  margin: 2.75rem 0;
+  margin-left: calc(50% - min(var(--figure-width), 100vw - 2.5rem) / 2);
+}
+
+img {
+  /* The posts carry class="image-fluid", which is a typo for Bootstrap's
+     img-fluid and therefore styles nothing. Constrain images directly so
+     they cannot overflow on narrow screens. */
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+  border-radius: 2px;
+}
+
+figcaption {
+  margin: 0.75rem auto 0;
+  max-width: var(--measure);
+  font-size: 0.875rem;
+  line-height: 1.5;
+  font-style: italic;
+  color: var(--muted);
+  text-align: center;
+}
+
+/* ---- footer ---- */
+
+.post-footer {
+  max-width: var(--measure);
+  margin: 0 auto;
+  padding: 2rem 1.25rem 4rem;
+  border-top: 1px solid var(--rule);
+  font-size: 0.9375rem;
+}
+
+.post-footer a {
+  color: var(--muted);
+  text-decoration: none;
+}
+
+.post-footer a:hover {
+  color: var(--text);
+  text-decoration: underline;
+}
