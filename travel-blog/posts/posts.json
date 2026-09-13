@@ -1,0 +1,5 @@
+{
+  "layout": "post.njk",
+  "tags": ["travel"],
+  "permalink": "/travel-blog/posts/{{ page.fileSlug }}/{{ page.fileSlug }}.html"
+}

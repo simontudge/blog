@@ -1,109 +1,48 @@
-<!doctype html>
-<html lang="en">
-  <head>
+---
+title: "Estonia"
+lead: "July 2017: first leg of the seven month journey east, flew from London-Gatwick to Tallinn, the capital of Estonia, to begin the long journey east towards Vietnam."
+---
+### About Estonia
 
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-166930824-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-166930824-1');
-</script>
-
-    <!-- Required meta tags -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
-    <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-
-    <link rel="stylesheet" href="../../style.css">
-
-    <title>Estonia</title>
-  </head>
-  <body>
-
-    <main role="main" class="container">
-      <h1 class="mt-5">Estonia</h1>
-        <p class="lead">July 2017: first leg of the seven month journey east, flew from London-Gatwick to Tallinn, the capital of Estonia, to begin the long journey east towards Vietnam.</p>
-
-<h3>About Estonia</h3>
-
-<p>
 Estonia is a tiny country, with only around 1.5 million people, little bigger than the city that I grew up in. Estonians, according to a recent poll, are the least religious people in the world. They are also one of the most tech savvy, being the first country where it is possible to vote online. Estonia, as a formal country, is not quite as old as I am, gaining its independence from the Soviet Union in 1991. Since then the country has enjoyed huge economic growth, leading some to Christen it the baltic tiger. It's strange to think that, as the country split from the Soviet Union the GDP per capita was roughly level with Ukraine, now the difference could hardly be starker. Estonia seems like a thoroughly modern and thriving country, leaving behind its Soviet past and edging more towards its rich northerly neighbours. Stalin moved many Russian people to the Baltic in order to Russify this region. This effort is still evident to this day as around 25% of the population are ethnically Russian, some of whom don't even speak Estonian, and most don't have estonian nationality; they are therefore unable to vote, or to travel anywhere else in Europe without a visa. Many people in the know fear that this tension may be employed by Putin in order to stir up trouble between the Russians and the Estonians, in much the same way that they did in Georgia and Ukraine. In 2004 Estonia joined NATO, which makes Russian aggression seem improbable. There is a sizable NATO military presence in the eastern region of Estonia, particularly Narva.
-</p>
 
-<p>
 In terms of countryside Estonia is flat, with its highest peak just edging the 300m mark, and most of the country is covered in dense forest.
-</p>
 
-<h3>Tallinn</h3>
+### Tallinn
 
-<p>
 Tallinn has one of the best preserved medieval towns in the region. Whilst small its labyrinth cobbled streets can be explored for hours. It’s pretty, but it’s almost too much, like an overly kitsch medieval theme park. Women in traditional middle-age getup becon you into their taverns for an ale, for a hefty price. The overly kitch toursityness is too much to bear for more than a long afternoon, so I decided to hire a bike and cycle along 10 km of coast line to a beach town called Pirita. Along the way I found an enormous concrete memorial, which I assumed was a soviet construction. I was surprised to find that this memorial was actually constructed by the Germans. Many of the local population here actually welcomed the Nazis as liberators from the Soviet Union, as the panzer divisions rolled into Tallinn in the early 1940s.
-</p>
 
 <figure>
   <img src="images/tallinn.jpg" alt="Tallinn" width=800 class='image-fluid'>
   <figcaption>Hillside view overlooking the old medieval centre of the small capital of Tallinn</figcaption>
 </figure>
 
-<p>
 As I cycled on I couldn't help but be slightly surprised at how clean and rich all of the suburbs of Tallinn seem, maybe I had simply stumbled into the right ones, but this place is nothing like the eastern Europe that I have previously found in Bulgaria, Romania or Albania.
-</p>
 
-<h3>Soomaa</h3>
+### Soomaa
 
-<p>
 After Tallinn I decided to head to the countryside to the bogs and forests of Soomaa national park. The Estonian girl at the hostel in Tallinn had never heard of the place, which boded well. I took the train to a tiny village called Tori, or I intended to anyway. I was dozing on the two hour train from Tallinn to Tori and I awoke as the train was pulling into the station. I bundled all my things into my bag and tried to get off the train, but the doors would not open. The platform at this stop was so small that only the very first carriage of the train would open. As I ran down the train to the front carriage the train began to pull away, I had missed my stop. I had to wait until the next stop, which the train pulled into 20 mins later. I checked the map and I was a full 22km from the place that I had booked to stay at. The next train in the other direction was not for another 6 hours, and it was pouring with rain. There was absolutely nothing at the stop which I had pulled into, there was nothing for it, I had to start walking back the way I came with my heavy backpack. Google informed me that it was a four and a half hour walk to where I needed to be. The road was deadly quiet; I hardly saw a soul. Occasionally a car would pass me by, I put out my thumb in hope but three sped past me without a hint of acknowledgement. Then the fourth car, which came by after about forty minutes, pulled over and stopped. The driver was a young guy who spoke excellent English and worked in the local school. He took me about half of the way there to the next road that led to the town I wanted to go to. I suspect he drove a long way out of his way to take me there, but he was too polite to admit it. I was more than halfway there at this point. I began to walk again and stuck my thumb out for more passing cars, this time the second one stopped within about five minutes. It was a minibus full of young people, perhaps on route to a summer retreat in the national park. They took me to the next turning, the map told me that I was a mere five km from the turn off so I decided to walk the rest of the way. Along the route a third car stopped to pick me up, this time without me even putting my hand out. He dropped me at the final turning to the guest house. From there I walked the last kilometer. The whole mishap had only set me back less than an hour. I had arrived in the Soomaa national park, an expanse of desolate bog lands and scattered birch forests, intersected by two large rivers. The local population first came to live here to escape their overly cruel German landlords, and subsided off the land for centuries, cut off from the outside world. Despite the residents noble efforts the park is now once again full of Germans.
-</p>
 
-<p>
 The plan for the next day was to hire a canoe and to paddle through a fair section of the park. My time in Estonia seemed to alternate between one rainy day and one sunny one, luckily this was one of the sunny ones. Other guests at the guest house had the same idea as me and thankfully they had a car, so they drove me to the canoe place. From there the owner of the canoe shop drove us a further ten km up the river and instructed us to find our way back to the shop by following the river downstream. The journey down stream took around four hours of lazy paddling, a few strokes of the paddle, followed by a few minutes of gliding downstream and lots of stops by the side of the river to delve into the bordering woodlands. Truly a highlight of Estonia and the trip so far; as they say "it's impossible to be unhappy on a boat".
-</p>
 
-<p>
 I'd worked up quite a sweat by the time I got back, so I took a dip in one of the bogs near to the guest house that evening. No trip to Soomaa can be truly complete without a bracing fresh water swim in a sulphurous bog, I'm reliably told.
-</p>
 
 <figure>
   <img src="images/swimming_bog.jpg" alt="swimming spot" width=800 class='image-fluid'>
   <figcaption>Time for a bracing swim in this icy bog outside the guesthouse where I'm staying.</figcaption>
 </figure>
 
-<h3>Parnu and Kihnu</h3>
+### Parnu and Kihnu
 
-<p>
 My next stop was parnu, a seaside party town in the south of Estonia on the Baltic coast. It looked as though half of Estonia was here on the weekend I was there (and a fair chunk of Finland too). I spent my days here without particular aim or purpose, aside from the long sandy beach there is a charming old town, built almost entirely out of wood, reminiscent of some of the towns in Scandinavia, with many cafes and bars to while away the hours, and many hearty salty-fishy dishes to keep your bouche amused for many days.
-</p>
 
-<p>
 From Parnu it's a one hour ferry ride away to the tiny Island of Kihnu, population 900, or for the next night: 901. The island has a tiny airport, more of a well mown field, a couple of shops and pubs, and is crisscrossed by almost empty roads in various states of disrepair: perfect for an afternoon, or lazy day, of cycling. The only real sight of interest is the lighthouse at the southernmost tip of the island, but apart from that the joy of the place is in getting lost along the dirt tracks and country lanes of the island, and soaking up its rural charm. The whole island is almost like a themepark to a romanticized rural past. There are many farmers here, and many of the women wear the traditional Estonia peasant dresses, maybe only for the tourists though, who knows.
-</p>
 
 <figure>
   <img src="images/kihnu.jpg" alt="swimming spot" width=800 class='image-fluid'>
   <figcaption>Old wooden house on the island of Kihnu.</figcaption>
 </figure>
 
-<p>
 Estonia is a little gem of a country, most tourists stick to Tallinn, so outside of the capital it is very peaceful and calm. The people are like pork pies, a little hard and crusty on the outside, but underneath quite soft and squidgy. Everyone here speaks English, and everything just works so well, so it is incredibly easy to travel around. All together a tranquil and refreshing ten days was spent here, well done Estonia, top marks.
-</p>
 
-<p>
 The next day I went back to Parnu and from there took a bus to Riga, Latvia and country number 2 on my trip.
-</p>
-
-    </main>
-
-    <!-- Optional JavaScript -->
-    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
-  </body>
-</html>
-
-

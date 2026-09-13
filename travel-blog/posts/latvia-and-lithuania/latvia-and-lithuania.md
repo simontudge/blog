@@ -1,0 +1,29 @@
+---
+title: "Latvia and Lithuania"
+lead: "Apologies for rolling these two countries into one. I didn't spend nearly long enough in either of these two Baltic beauties, having spent a while in Estonia, and needing to move on to Poland soon to meet my brother. I focus on the two cities of Riga and Kaunas. I hope to come back here one day to do this place justice."
+---
+## Latvia
+
+### Riga
+
+My only real stop here was Riga, although I made a day trip to Sigulda, the self declared Switzerland of Latvia. Just like Tallinn, Riga has an old medieval centre that is surrounded by more modern quarters. The old town is not quite as picture perfect as Tallinn, but it is much bigger, and does a better job of absorbing its tourists whilst keeping its composure. Again the old town occupied an afternoon of strolling. After that I explored the art-nouveau district, in which there is a museum with a video pointing out all the buildings in the area built in that architectural style. It’s a fun few hours spent hunting them all down. Also the Russian neighbourhood is well worth a visit, including the Academy of culture. The Soviets built one of these buildings in almost every city of note, such that architecture will look familiar if you have been to Warsaw, Kiev, or any one of a number of former communist cities in eastern Europe. It's also worth visiting the Russian flea market in the Moskova neighbourhood, if only to look at the people manning the stores. There is a definite nostalgia for the Soviet Union amongst the store keepers and their (few) customers, and all manners of things from the former USSR are on sale here, including busts and posters of Stalin and many other communist nick-nacks. There is even a store selling trinkets from the times of the third reich. I couldn't quite bring myself to buy a tobacco tin with Hitler's psychotic black eyes staring right back at me, but amusing to see nonetheless.
+
+<figure>
+        <img src="images/russian_market.jpg" alt="Russian Market" height="800">
+        <figcaption>Various Soviet memorabilia and old weapons on sale in the Russian market in Riga.</figcaption>
+      </figure>
+
+Whilst in Riga I made a day trip to Sigulda, the self styled Switzerland of Latvia. It doesn't quite live up to its name, but nor is it an entirely disingenuous claim. The town itself is nothing special, but the surroundings are very picturesque. I made a 12 km round trip walk along the side of a river, past sandstone caves and gentle hills, to a hide out of some famous monk (I forget his name and what he was famous for) up in the hills above Sigulda, where you can still see some of the graffiti he left on the wall of the cave some 500 years ago, along with many more modern additions. Well worth a trip out of Riga for this one in my opinion.
+
+I got quite ill in Riga, so I had to bunker down in a hotel for a few days, which meant I missed out on going anywhere else in Latvia, and had to cut short my visit to Lithuania as well.
+
+Again a very positive experience of Latvia. It's slightly poorer than Estonia and the people are slightly less blonde, but its capital is much more interesting than Tallinn. Otherwise the countries seemed very similar in many regards.
+
+<figure>
+        <img src="images/sigulda.jpg" alt="Sigulda" width=800 class='image-fluid'>
+        <figcaption>River side vista in Sigulda</figcaption>
+      </figure>
+
+## Lithuania
+
+I was going to spend a good 6 days here, and take in Vilnius, Klaipeda and the Curonian spit and finally stop of at Kaunas, but I was running out of time so my experience of Lithuania was limited to a single night in Kaunas. Kaunas again has a very charming old town, but is far less visited than either Riga or Tallinn. It also seems markedly poorer than both of those places. Being built on the bend of a river, overlooked by small hills to the South, gives the city quite a charming feel to it. The large university means that the students outnumber the tourists by my reckoning, and the night life is set up to reflect this, with cheap grungy indie bars replacing the posh and overpriced drinking holes of Tallinn. This adds up to some interesting nightlife and a great place to spend a day or two. I was only here for 16 hours, however, so I can't tell you too much more. Also I forgot to charge my phone, so I don't have a single photo of Lithuania, you'll just have to take my word for it.
