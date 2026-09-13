@@ -84,7 +84,7 @@ Some of the elders tutted; some of the younger boys could barely hide their snig
 
 The elders looked bemused, but decided to allow the discussion to go ahead anyway.
 
-"Very well", said the eldest of all the elders, "let us discuss if men and women really are the same" , barely able to hide the contempt from his voice.
+"Very well", said the eldest of all the elders, "let us discuss if men and women really are the same", barely able to hide the contempt from his voice.
 
 The discussion went ahead, but before long it took a turn that bewildered Kiera. The men of the village began to make silly comments such as "men have penises and women do not: that's one difference." Another said, "Women can breastfeed babies, and men cannot", and a third, grasping the thread of the discussion chimed in "men are stronger than women, and they can run faster."
 

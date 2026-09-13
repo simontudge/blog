@@ -32,7 +32,7 @@ And then further along the dirt path in the minibus to the final stop in Lao, Lu
 
 ### Luang Prabang
 
-Luang Prabang is Lao's tourist centre piece, a charming ancient city built where a gentle river meets the mighty Mekong, dotted with golden temples, old teak houses and french colonial villas, all set beneath a canopy of lush green hills.
+Luang Prabang is Lao's tourist centre piece, a charming ancient city built where a gentle river meets the mighty Mekong, dotted with golden temples, old teak houses and French colonial villas, all set beneath a canopy of lush green hills.
 
 The ride in the minibus continues over a mountainous dirt road in appalling condition. There is a palpable silence as the minivan struggles over the shoddiest sections of steep road, the driver simply giggles at our fear. He is the antithesis of the previous driver, careful to the point of being tediously slow, and the short trip takes the best part of seven hours. We arrive at the hostel, who have no record of my booking, after half an hour of phoning back and forth they ascertain that they have a free bed in any case, and I am allowed to stay. There is just time to walk along the dark river and take a glimpse of the old town and a bite to eat before I head to bed.
 
