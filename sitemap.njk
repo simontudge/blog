@@ -1,0 +1,20 @@
+---
+permalink: "/sitemap.xml"
+eleventyExcludeFromCollections: true
+# The home page and the two section indexes set eleventyExcludeFromCollections,
+# so collections.all holds the posts only and the landing pages are listed here
+# by hand. Add any new landing page to this list.
+landingPages:
+  - "/"
+  - "/short-stories/"
+  - "/travel-blog/"
+---
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+{%- for url in landingPages %}
+  <url><loc>{{ site.url }}{{ url }}</loc></url>
+{%- endfor %}
+{%- for item in collections.all %}
+  <url><loc>{{ site.url }}{{ item.url | replace('.html', '') }}</loc></url>
+{%- endfor %}
+</urlset>
