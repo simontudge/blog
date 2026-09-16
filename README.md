@@ -57,10 +57,34 @@ dashboard is the only source of truth:
 - **Custom domains:** `sjtudge.com` and `www.sjtudge.com`, added under the
   Worker's Settings → Domains & Routes. Cloudflare manages the DNS records and
   TLS certificates automatically.
+- **Redirect:** a Redirect Rule on the `sjtudge.com` zone sends
+  `www.sjtudge.com` to the apex with a 301, preserving path and query. Rules →
+  Redirect Rules.
 - **Registrar:** Cloudflare Registrar, which auto-renews by default. The
-  previous domain, `simontudge.com`, was lost to a missed renewal in 2026 and
-  is now registered to someone else.
+  previous domain, `simontudge.com`, was lost in 2026 because the card it was
+  charged to had been cancelled — auto-renew does not help if the payment
+  method is dead, and the only warning is email.
 
 To move the site to a different domain: register or add the domain to the same
-Cloudflare account, then add it as a Custom Domain on the `blog` Worker. No
-changes are needed in this repo.
+Cloudflare account, then add it as a Custom Domain on the `blog` Worker. Update
+`url` in `_data/site.json`, which is what the canonical tags, sharing tags and
+sitemap are built from.
+
+## Analytics and search
+
+Also dashboard-side, and likewise invisible from the code:
+
+- **Cloudflare Web Analytics** is enabled for the zone, and Cloudflare injects
+  the beacon into HTML responses automatically at the edge. There is
+  deliberately **no script tag in the layout** — adding one would load the
+  beacon twice and double-count visits. The flip side is that nothing in this
+  repo references analytics, so it would stop silently if the site ever moved
+  off Cloudflare.
+- **Google Search Console** has a Domain property for `sjtudge.com`, verified
+  by a `google-site-verification` TXT record in Cloudflare DNS. Deleting that
+  record un-verifies the property. `https://sjtudge.com/sitemap.xml` is
+  submitted there.
+
+`sitemap.njk` generates the sitemap. The home page and the two section indexes
+set `eleventyExcludeFromCollections`, so they are listed by hand in that file's
+front matter — a new landing page has to be added there or it won't appear.
