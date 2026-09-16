@@ -7,6 +7,12 @@
 
     <link rel="stylesheet" href="/site.css">
 
+    {# The site answers on www and on workers.dev as well; this names the one
+       canonical address so crawlers don't treat them as separate copies.
+       Cloudflare redirects the .html form to the extensionless one, and the
+       index pages link that way too, so the canonical drops .html to match. #}
+    <link rel="canonical" href="{{ site.url }}{{ page.url | replace('.html', '') }}">
+
     <title>{% if pageTitle %}{{ pageTitle }}{% elif title %}{{ title }} — Simon's Blog{% else %}Simon's Blog{% endif %}</title>
   </head>
   <body>
