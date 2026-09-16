@@ -8,6 +8,7 @@ module.exports = function (eleventyConfig) {
   // style.css is only used by the unpublished film pages; it stays in the
   // repo for them but is no longer copied into the site.
   eleventyConfig.addPassthroughCopy("site.css");
+  eleventyConfig.addPassthroughCopy("favicon.svg");
   for (const section of ["short-stories", "travel-blog"]) {
     eleventyConfig.addPassthroughCopy(`${section}/**/*.html`);
     eleventyConfig.addPassthroughCopy(`${section}/**/*.${IMAGES}`);
