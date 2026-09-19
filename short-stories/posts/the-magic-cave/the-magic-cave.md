@@ -8,7 +8,7 @@ order: 0
 
 There once was a village. In the village everything was the same. Nothing had ever changed for as long as anyone could remember.
 
-The village was not particularly remarkable. Not that large, not that famous. Not too hot, nor too cold. It was as steady and unchanging as the snow-sprinkled mountains that framed the smoky chimneys of the villagers’ houses. The mountains that peaked their head out from behind the thatched roofs of the fifty or so unremarkable houses that made up the village. The mountains that no one ever climbed.
+The village was not particularly remarkable. Not that large, not that famous. Not too hot, nor too cold. It was as steady and unchanging as the snow-sprinkled mountains that framed the smoky chimneys of the villagers’ houses. The mountains that peeked their head out from behind the thatched roofs of the fifty or so unremarkable houses that made up the village. The mountains that no one ever climbed.
 
 Through the village ran an icy stream of lime-green water. Ever flowing, never drying up, nor forming a torrent. Enough to provide the villagers with ample drinking water; and a place for the youngsters to swim in the hot summer afternoons. There was just enough power in the stream to turn the single mill that sat at the top of the village and provided the villagers with flour for their morning bread.
 
@@ -36,11 +36,11 @@ However the night went, the next day the squabbles were always put to one side. 
 
 <span>…</span>
 
-When Kiera turned fourteen she was able to join the discussions, as was the custom of the village. She greeted her fourteenth birthday with excitement and trepidations, as she entered the smoky circular building in the centre of the village for the very first time.
+When Kiera turned fourteen she was able to join the discussions, as was the custom of the village. She greeted her fourteenth birthday with excitement and trepidation, as she entered the smoky circular building in the centre of the village for the very first time.
 
 "What shall we discuss today", grumbled a wizened old man with a long grey beard and half shut eyes that looked like raisins.
 
-"The earth revolves around the sun", said one handsome looking man with only a few whips of hair on his immature chin.
+"The earth revolves around the sun", said one handsome looking man with only a few wisps of hair on his immature chin.
 
 "Be reasonable, Farooe", said the old man. "We pride ourselves on being open minded," he continued with self-righteous condescension, "but there are limits."
 
@@ -112,7 +112,7 @@ As the sun dipped, the fireflies began their pale imitation of the sun, radiatin
 
 Kiera stopped for breath and noticed something. The fireflies were congregating around an opening in the nearby cliffs. The mouth of a cave! Kiera must have been within a few hundred meters of this cave a few hundred times, and yet never quite seen it. She felt weirdly excited. Something new, illuminated; or at least something newly illuminated, only fleetingly and partially, in a new light.
 
-She could go and have a look, she thought. Her mother was down in the village, she would assume that Keira was still at the village discussion. She had thirty, perhaps forty, minutes before she would be missed.
+She could go and have a look, she thought. Her mother was down in the village, she would assume that Kiera was still at the village discussion. She had thirty, perhaps forty, minutes before she would be missed.
 
 She could go and have a look. In fact she could not not go and look, and so she looked.
 
@@ -132,7 +132,7 @@ And the cave shouted back:
 
 "Fuck you Joseph", Kiera elaborated.
 
-""Fuck you Joseph", replied the cave, as if by magic.
+"Fuck you Joseph", replied the cave, as if by magic.
 
 "I am Kiera, and I am the greatest!" Bellowing from her now smiling lips.
 
@@ -278,7 +278,7 @@ The glazed look of ecstasy that was once etched onto Kiera's hazel eyes was now 
 
 Yet she still went to the cave.
 
-This time would be different, she told herself. This time she would convince the voices, overcome the bullies. She would be heard over the cacophony of destructive descent.
+This time would be different, she told herself. This time she would convince the voices, overcome the bullies. She would be heard over the cacophony of destructive dissent.
 
 And of course Joseph kept visiting the cave. Kept feeding it with the nastiness that lived inside him. The nastiness that he dared not to express in the village. A nastiness that had, in all fairness, been visited upon him, but had turned sourer, more primal and more simplistic as it festered unexpressed in his fragile heart.
 
@@ -294,7 +294,7 @@ The grownups were concerned. They began to talk about their children in hushed, 
 
 The din inside the cave had reached thunderous levels. The cacophony of voices had become almost unbearable.
 
-And when the adults, drawn ostensibly from concern over their children, started to make their way up the steep hill, and past the rock that marked the furthest point that Kiera and Joseph had ever been from the village as children, and made their way into the cave, the murmuring voices of the cave could be heard even in the village. Even in the circular building, with the mud backed walls, and the thatched roof with a hole in it that sat at the centre of the village, one could make out the faint murmurs of the voices over the crackling fire.
+And when the adults, drawn ostensibly from concern over their children, started to make their way up the steep hill, and past the rock that marked the furthest point that Kiera and Joseph had ever been from the village as children, and made their way into the cave, the murmuring voices of the cave could be heard even in the village. Even in the circular building, with the mud-baked walls, and the thatched roof with a hole in it that sat at the centre of the village, one could make out the faint murmurs of the voices over the crackling fire.
 
 But it didn't matter, because at that point there was no one in the circular building in the centre of the village, save for a few old men, hard of hearing enough to carry on oblivious.
 

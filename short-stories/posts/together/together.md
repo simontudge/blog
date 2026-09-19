@@ -34,9 +34,9 @@ An elderly guy in the last group caught my eye. It seemed like pity in his eyes.
 
 I turned on my phone. It was at 22%. No signal. There sometimes isn't signal, but I can see the mobile mast on the crest of the hill, which struck me as strange.
 
-At the final shepard hut I passed someone beckoned me in to watch a news broadcast on their television. I couldn't quite believe what I was seeing. Many kinds of explanations raced through my head. Is this a joke? A weird new kind of ultra-realistic film. Am I simply dreaming?
+At the final shepherd's hut I passed someone beckoned me in to watch a news broadcast on their television. I couldn't quite believe what I was seeing. Many kinds of explanations raced through my head. Is this a joke? A weird new kind of ultra-realistic film. Am I simply dreaming?
 
-The numbers being reported had a sick surreal kind of sound to them. Like being told about the holocaust, or Stalin's Ukrainian famine. Now I was hearing numbers expressed in the hundreds of millions. Meaningless numbers. Pictures of European and American cities incinerated. With images that look stupid and unrealistic next to the best Holywood CGI.
+The numbers being reported had a sick surreal kind of sound to them. Like being told about the holocaust, or Stalin's Ukrainian famine. Now I was hearing numbers expressed in the hundreds of millions. Meaningless numbers. Pictures of European and American cities incinerated. With images that look stupid and unrealistic next to the best Hollywood CGI.
 
 And the mushroom clouds.
 

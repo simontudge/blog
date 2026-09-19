@@ -26,7 +26,7 @@ I had always imagined the early stages of a relationship as being filled with ro
 
 Something truly heart wrenching happened yesterday. I was too upset to write about it at the time. I came home early from work as I had a bit of a migraine, and I caught A. with another man! I honestly can’t believe it, she was not even subtle about it, he was just there, in his towel in the middle of the living room, in the middle of the day. The most upsetting thing is that she hardly even tried to hide it, barely even apologised for it, as if it were the most natural thing in the world.
 
-This has been an absolute gut punch, I really don’t know what to do. There is no one I can turn to because no one I know even knows about my relationship with A. I feel absolutely retched. It’s like I mean absolutely nothing to her, like I hardly even exist in her life. Maybe this can’t possibly work, but I’m afraid of being by myself again.
+This has been an absolute gut punch, I really don’t know what to do. There is no one I can turn to because no one I know even knows about my relationship with A. I feel absolutely wretched. It’s like I mean absolutely nothing to her, like I hardly even exist in her life. Maybe this can’t possibly work, but I’m afraid of being by myself again.
 
 I didn’t really know what to do last night. We didn’t explicitly break up, or even talk it over, I just went straight to bed in a rage and tossed and turned for a sleepless night. I don’t know where A. went, or where that man went, he just disappeared and I haven't seen him around this morning or this evening.
 
